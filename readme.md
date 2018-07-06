@@ -1,3 +1,3 @@
-# First NPM Package
+# A Good Package
 
-Finding out how easy it is to publish
+#### *_totally worth installing_* 
