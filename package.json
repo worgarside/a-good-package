@@ -40,9 +40,9 @@
       "transform-es2015-modules-commonjs"
     ]
   },
-  "description": "Quick loan calculator for LiveLend",
-  "main": "lib/livelend-loan-calc.js",
-  "repository": "git@github.com:chetwoodfinancial/livelend-loan-calc.git",
+  "description": "NPM fun",
+  "main": "dist/calculator.js",
+  "repository": "git@github.com:worgarside/a-good-package.git",
   "author": "Will Garside <worgarside@gmail.com>",
   "license": "MIT"
 }
